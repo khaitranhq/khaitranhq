@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="lioaslan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lioaslan&show_icons=true&include_all_commits=true&hide_border=true" />
 
-### Hi there, I'm Aditya Shakya 👋
+### Hi there, I'm Khai Tran (Leo) 👋
 
 I'm a Software Engineer
 - 🔭 I’m currently working on NAPA Global
