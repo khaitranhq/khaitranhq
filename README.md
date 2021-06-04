@@ -11,7 +11,7 @@
 
 I'm a Software Engineer
 - 🔭 I’m currently working on NAPA Global
-- 🌱 I’m currently learning `node.js`, `python` and `devops` skills like `aws` or `docker`, `kubernetes`
+- 🌱 I’m currently learning `node.js`, `python` and `devops` techniques like `aws` or `docker`, `kubernetes`
 - 🥅 2021 Goals: Improve myself and make some valuable projects
 - ⚡ Fun fact: I love ⚽️ | 🐱 | 🐶 | 🎸
 
