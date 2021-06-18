@@ -29,7 +29,7 @@ I'm a Software Engineer, specifically a Web Developer
 
 <img align="left" alt="VIM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
 <img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://deverion.com/uploads/default/original/1X/8d880ec219d55ab09b7ee0edf87c12a64735949d.png" />
+<img align="left" alt="Node.js" width="26px" src="https://hocviendautu.edu.vn/wp-content/uploads/2020/07/dai-dien-node.png" />
 <img align="left" alt="React.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="AWS" width="26px" src="https://cloudhedge.io/wp-content/uploads/2017/11/aws.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://taiwebs.com/upload/icons/visual-studio-code.png" />
