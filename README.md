@@ -18,8 +18,8 @@ I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
 ### Connect with me:
 
 [<img align="left" alt="adi1090x | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
-[<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="adi1090x | Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" />][github]
+[<img align="left" alt="adi1090x | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 [<img align="left" alt="adi1090x | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 
@@ -28,7 +28,7 @@ I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
 ### Languages and Tools:
 
 <img align="left" alt="VIM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
-<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.dribbble.com/users/595800/screenshots/1702094/linux.png" />
 <img align="left" alt="Node.js" width="26px" src="https://hocviendautu.edu.vn/wp-content/uploads/2020/07/dai-dien-node.png" />
 <img align="left" alt="React.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="AWS" width="26px" src="https://cloudhedge.io/wp-content/uploads/2017/11/aws.png" />
