@@ -17,10 +17,10 @@ I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
 
 ### Connect with me:
 
-[<img align="left" alt="adi1090x | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" />][facebook]
-[<img align="left" alt="adi1090x | Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" />][github]
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
-[<img align="left" alt="adi1090x | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="leo | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" />][facebook]
+[<img align="left" alt="leo | Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" />][github]
+[<img align="left" alt="leo | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
+[<img align="left" alt="leo | LinkedIn" width="22px" src="https://banner2.cleanpng.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg" />][linkedin]
 
 
 <br />
