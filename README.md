@@ -12,7 +12,7 @@
 I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
 - 🔭 I’m currently working on NAPA Global
 - 🌱 I’m currently learning `node.js`, `python`, `devops` techniques like `aws`, `docker`, `kubernetes` ans `linux system`
-- 🥅 2021 Goals: Improve myself and make some valuable projects
+- 🥅 2022 Goals: Improve myself and make some valuable projects
 - ⚡ Fun fact: I love ⚽️ | 🐱 | 🐶 | 🎸
 
 ### Connect with me:
