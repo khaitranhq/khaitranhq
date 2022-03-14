@@ -10,9 +10,9 @@
 ### Hi there, I'm Khai Tran (Leo) 👋
 
 I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
-- 🔭 I’m currently working on NAPA Global
-- 🌱 I’m currently learning `node.js`, `python`, `devops` techniques like `aws`, `docker`, `kubernetes` ans `linux system`
-- 🥅 2022 Goals: Improve myself and make some valuable projects
+- 🔭 I’m working on NAPA Global at this time.
+- 🌱 I’m currently learning `node.js`, `python`, `devops` techniques like `aws`, `docker`, `kubernetes` ans `linux system`.
+- 🥅 2022 Goals: Improve myself and make some valuable projects.
 - ⚡ Fun fact: I love ⚽️ | 🐱 | 🐶 | 🎸
 
 ### Connect with me:
