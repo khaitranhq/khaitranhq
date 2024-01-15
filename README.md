@@ -11,8 +11,8 @@
 
 I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
 - 🔭 I’m working on Saigon Technology at this time.
-- 🌱 I’m currently learning `node.js`, `python`, `devops` techniques like `aws`, `docker`, `kubernetes` ans `linux system`.
-- 🥅 2022 Goals: Improve myself and make some valuable projects.
+- 🌱 I’m currently learning `AWS`, `Linux`, `Neovim`, `Node.JS`, and `GoLang`.
+- 🥅 2024 Goals: Improve myself and make some valuable projects.
 - ⚡ Fun fact: I love ⚽️ | 🐱 | 🐶 | 🎸
 
 ### Connect with me:
