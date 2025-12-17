@@ -20,8 +20,6 @@ I'm a Software Engineer, specifically a Web Developer and a DevOps Engineer
 
 📘 [Facebook][facebook] &nbsp;&nbsp;&nbsp; 🐙 [GitHub][github] &nbsp;&nbsp;&nbsp; 📧 [Email][gmail] &nbsp;&nbsp;&nbsp; 💼 [LinkedIn][linkedin]
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Neovim" width="26px" src="https://neovim.io/favicon.ico" style="margin-right: 10px;" />
